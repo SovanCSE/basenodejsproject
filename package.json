@@ -1,0 +1,19 @@
+{
+  "name": "basenodejsproject",
+  "version": "1.0.0",
+  "description": "practice of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SovanCSE/basenodejsproject.git"
+  },
+  "author": "sovan <\"sovan.panda338@gmail.com\">",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SovanCSE/basenodejsproject/issues"
+  },
+  "homepage": "https://github.com/SovanCSE/basenodejsproject#readme"
+}
